@@ -24,7 +24,7 @@
     </a>
     <br />
     <br />
-  </p>
+  </p> 
 
   <p align="center">
     <a href="#demo">Demo</a>
